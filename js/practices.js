@@ -3,7 +3,7 @@ console.log('i love js')
 const getElement = document.getElementById('change-title');
 
 const getElementValueString = getElement.innerText;
-// console.log(getElementValueString);
+console.log(getElementValueString);
 
 document.getElementById('btn-Buy').addEventListener('click', function () {
 
